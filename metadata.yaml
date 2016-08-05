@@ -1,0 +1,28 @@
+_repo: Dawn_5874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Porter, Eleanor H. (Eleanor Hodgman)
+    alias: Porter, Eleanor Hodgman
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '200'
+    url: http://www.gutenberg.org/2009/agents/200
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_H._Porter
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Blindness -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Dawn
+url: http://www.gutenberg.org/ebooks/5874
